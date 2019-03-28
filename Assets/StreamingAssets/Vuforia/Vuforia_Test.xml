@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vuforia3" size="5.000000 5.000000" />
+    <ImageTarget name="vuforia2" size="5.000000 6.781250" />
+    <ImageTarget name="vuforia" size="5.000000 7.142857" />
+    <ImageTarget name="LogoCN_RVB" size="5.000000 2.822404" />
+  </Tracking>
+</QCARConfig>
